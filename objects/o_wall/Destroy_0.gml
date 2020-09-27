@@ -1,0 +1,1 @@
+mp_grid_clear_cell(global.grid, x/16, y/16);

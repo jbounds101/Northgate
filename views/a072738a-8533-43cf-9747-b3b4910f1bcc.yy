@@ -1,0 +1,30 @@
+{
+    "id": "a072738a-8533-43cf-9747-b3b4910f1bcc",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "a072738a-8533-43cf-9747-b3b4910f1bcc",
+    "children": [
+        "705b81ed-5d72-4b20-978e-458b2f72ec02",
+        "53d41ac7-0350-4528-8c21-48198d7d9f65",
+        "928b1225-255d-4ce8-b154-4f51cee0db95",
+        "77a24f03-17f9-4665-9ef9-791b417e5e02",
+        "1ae553ea-cb04-48af-98a6-d2858f177078",
+        "4053da7c-a88b-4d02-8b6d-ccf8d0a3d2a8",
+        "72043252-4a3a-41ce-abad-5d19663663dc",
+        "3923b241-d145-4bda-a18d-174425db539b",
+        "80686b46-ff85-42da-a158-72f01bf4beef",
+        "66dee192-163b-478e-a936-3899882beea9",
+        "c2a01b65-26a3-4a0a-b449-4c56dd770fe0",
+        "d66b7bb9-57c0-49c4-b853-ebd653219a13",
+        "1c769b45-734c-40e8-a1ed-6d2411172a1e",
+        "fe32e15c-f4e2-4eb9-8db0-a641ce24393b",
+        "a209e0fb-ffef-468d-a725-bbb1fc9ba070",
+        "f9f128c0-e257-4ff2-b6ac-b6a417642523",
+        "f875e9e7-a5b3-49a8-b450-10f28e7bd5fe",
+        "c653953b-894d-40a7-8000-a825d70eceb6"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Main HUD",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
